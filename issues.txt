@@ -1,0 +1,19 @@
+Issues with XYZReader
+
+- Color scheme is horrific
+	- gray & white background
+ 	- light gray text color
+	- on details page, weird having gray header with brownish-green title background
+
+- Photos are awkwardly displayed
+	- some take a long time to load
+	- fixed sizes of photos (regardless of device rotation and screen size)
+	- no rounded edges to photos
+	- on details page, photo displayed on top left corner near back button is weirdly placed
+	- Should have a photo on the center of the details page
+
+- App Layout
+	- main page layout is un-intuitive
+	- weird amounts of white space on each article post in the main page
+	- extra white space in top center part of details page (should add a photo there)
+	- extra space in title background on main page
